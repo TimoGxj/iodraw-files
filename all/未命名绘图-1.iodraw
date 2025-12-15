@@ -21,9 +21,6 @@
             <mxPoint x="770" y="386" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cjXEicDStmlPZodf9Kds-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cjXEicDStmlPZodf9Kds-5" target="cjXEicDStmlPZodf9Kds-15" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="cjXEicDStmlPZodf9Kds-5" value="安全与格式预处理" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
           <mxGeometry x="700" y="434" width="140" height="52" as="geometry" />
         </mxCell>
