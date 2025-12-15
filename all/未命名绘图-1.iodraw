@@ -55,22 +55,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cjXEicDStmlPZodf9Kds-15" value="组件插件注册表" style="whiteSpace=wrap;html=1;fontFamily=Verdana;fillColor=#e0e0e0;fontStyle=0;startSize=26;swimlaneFillColor=#ffffff;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="710" y="530" width="120" height="60" as="geometry" />
+          <mxGeometry x="1050" y="470" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cjXEicDStmlPZodf9Kds-16" value="component" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
-          <mxGeometry x="480" y="630" width="140" height="52" as="geometry" />
+          <mxGeometry x="820" y="570" width="140" height="52" as="geometry" />
         </mxCell>
         <mxCell id="cjXEicDStmlPZodf9Kds-17" value="ComponentType&amp;lt;any&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;" parent="cjXEicDStmlPZodf9Kds-16" vertex="1">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="cjXEicDStmlPZodf9Kds-18" value="componentName" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
-          <mxGeometry x="700" y="630" width="140" height="52" as="geometry" />
+          <mxGeometry x="1040" y="570" width="140" height="52" as="geometry" />
         </mxCell>
         <mxCell id="cjXEicDStmlPZodf9Kds-19" value="string" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;" parent="cjXEicDStmlPZodf9Kds-18" vertex="1">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="cjXEicDStmlPZodf9Kds-20" value="propsHandler" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
-          <mxGeometry x="930" y="630" width="210" height="52" as="geometry" />
+          <mxGeometry x="1270" y="570" width="210" height="52" as="geometry" />
         </mxCell>
         <mxCell id="cjXEicDStmlPZodf9Kds-21" value="props: Record&amp;lt;string, unknown&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;" parent="cjXEicDStmlPZodf9Kds-20" vertex="1">
           <mxGeometry y="26" width="210" height="26" as="geometry" />
